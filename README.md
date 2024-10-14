@@ -15,6 +15,8 @@ Wenze Liu, Le Zhuo, Yi Xin, Sheng Xia, Peng Gao, Xiangyu Yue
 
 MMLab, CUHK & Shanghai AI Lab & Nanjing University
 
+Currently we are working to organize the code.
+
 ## 🍀 Update
 
 - [2024.10.15] [arXiv](https://arxiv.org/abs/) preprint is available.
