@@ -1,8 +1,8 @@
 # Customize Your Visual Autoregressive Recipe with Set Autoregressive Modeling
 <div align="center">
 
-[arXiv](https://arxiv.org/abs/)&nbsp;
-[![project page](https://img.shields.io/badge/Project%20page-SAR-blue)](https://poppuppy.github.io/sar.github.io/)&nbsp;
+[![arXiv](https://img.shields.io/badge/arXiv%20paper-24-b31b1b)](https://arxiv.org/abs/)&nbsp;
+[![project page](https://img.shields.io/badge/Project%20page-SAR-pink)](https://poppuppy.github.io/sar.github.io/)&nbsp;
 
 </div>
 
