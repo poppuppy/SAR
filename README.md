@@ -48,3 +48,7 @@ To install **SAR**, follow these steps:
 git clone https://github.com/yourusername/sar-project.git
 cd sar-project
 pip install -r requirements.txt
+
+### Acknowledgement
+
+The code is built upon [LlamaGen](https://github.com/FoundationVision/LlamaGen), [MAR](https://github.com/LTH14/mar), [VAR](https://github.com/FoundationVision/VAR) and [MAE](https://github.com/facebookresearch/mae)(PyTorch). Thank for their great work.
