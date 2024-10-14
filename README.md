@@ -43,6 +43,17 @@ We run the code on:
 - Python 3.11
 - PyTorch 2.3.1
 
-### Acknowledgements
+## Acknowledgements
 
 The code is built upon [LlamaGen](https://github.com/FoundationVision/LlamaGen), [MAR](https://github.com/LTH14/mar), [VAR](https://github.com/FoundationVision/VAR) and [MAE](https://github.com/facebookresearch/mae) (PyTorch). Thank for their great work.
+
+## Citation
+
+```bibtex
+@article{liu2024customize,
+  title={Customize Your Visual Autoregressive Recipe with Set Autoregressive Modeling},
+  author={Liu, Wenze and Zhuo, Le and Xin, Yi and Xia, Sheng and Gao, Peng and Yue, Xiangyu},
+  journal={arXiv preprint arXiv:},
+  year={2024}
+}
+```
