@@ -4,8 +4,9 @@
 [arXiv](https://arxiv.org/abs/)&nbsp;
 [project page](https://poppuppy.github.io/sar.github.io/)&nbsp;
 
-</div>
-![Project Logo](link-to-your-logo.png)
+<p align="center">
+  <img src="resources/visualization.png" width="720">
+</p>
 
 This repository includes the official pytorch implementation of Set AutoRregressive Modeling (SAR), presented in our paper:
 
