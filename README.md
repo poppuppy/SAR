@@ -35,21 +35,11 @@ Welcome to **Set AutoRegressive Modeling (SAR)**! SAR extends causal learning fr
 
 ### Prerequisites
 
-Before you begin, ensure you have met the following requirements:
+We run the code on:
 
-- Python 3.8+
-- Necessary libraries (e.g., PyTorch, NumPy)
-
-### Installation
-
-To install **SAR**, follow these steps:
-
-```bash
-git clone https://github.com/yourusername/sar-project.git
-cd sar-project
-pip install -r requirements.txt
-```
+- Python 3.11
+- PyTorch 2.3.1
 
 ### Acknowledgement
 
-The code is built upon [LlamaGen](https://github.com/FoundationVision/LlamaGen), [MAR](https://github.com/LTH14/mar), [VAR](https://github.com/FoundationVision/VAR) and [MAE](https://github.com/facebookresearch/mae)(PyTorch). Thank for their great work.
+The code is built upon [LlamaGen](https://github.com/FoundationVision/LlamaGen), [MAR](https://github.com/LTH14/mar), [VAR](https://github.com/FoundationVision/VAR) and [MAE](https://github.com/facebookresearch/mae) (PyTorch). Thank for their great work.
