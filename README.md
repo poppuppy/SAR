@@ -14,7 +14,7 @@ This repository includes the official pytorch implementation of Set AutoRregress
 
 **[Customize Your Visual Autoregressive Recipe with Set Autoregressive Modeling](https://arxiv.org/abs/)**
 
-Wenze Liu, Le Zhuo, Yi Xin, Sheng Xia, Peng Gao, Xiangyu Yue
+[Wenze Liu](https://poppuppy.github.io/), [Le Zhuo](https://le-zhuo.com/), [Yi Xin](https://synbol.github.io/), [Sheng Xia](https://github.com/travis-xia/), [Peng Gao](https://gaopengcuhk.github.io/), [Xiangyu Yue](https://xyue.io/)
 
 MMLab, CUHK & Shanghai AI Lab & Nanjing University
 
