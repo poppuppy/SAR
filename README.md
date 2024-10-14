@@ -29,7 +29,7 @@ Welcome to **Set AutoRegressive Modeling (SAR)**! SAR extends causal learning fr
 
 - **Generalized AR Paradigm**: SAR conceptually unifies existing AR approaches, and provides broader design space to customize the training/inference process.
 - **Fully Masked Transformer**: A new transformer architecture suitable for SAR.
-- **Transition States**: The transition states in SAR offers new AR variants, which integrate both advantages of AR and MAR.
+- **Transition States**: The transition states in SAR offer new AR variants, which integrate both advantages of AR and MAR.
 
 ## ⚡ Getting Started
 
