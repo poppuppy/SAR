@@ -1,8 +1,8 @@
 # 🚀 Customize Your Visual Autoregressive Recipe with Set Autoregressive Modeling
 <div align="center">
 
-[![arXiv]()](https://arxiv.org/abs/)&nbsp;
-[![project page]()](https://poppuppy.github.io/sar.github.io/)&nbsp;
+[![arXiv]](https://arxiv.org/abs/)&nbsp;
+[![project page]](https://poppuppy.github.io/sar.github.io/)&nbsp;
 
 </div>
 ![Project Logo](link-to-your-logo.png)
