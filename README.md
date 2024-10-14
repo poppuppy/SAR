@@ -43,6 +43,6 @@ We run the code on:
 - Python 3.11
 - PyTorch 2.3.1
 
-### Acknowledgement
+### Acknowledgements
 
 The code is built upon [LlamaGen](https://github.com/FoundationVision/LlamaGen), [MAR](https://github.com/LTH14/mar), [VAR](https://github.com/FoundationVision/VAR) and [MAE](https://github.com/facebookresearch/mae) (PyTorch). Thank for their great work.
