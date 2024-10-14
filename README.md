@@ -48,6 +48,7 @@ To install **SAR**, follow these steps:
 git clone https://github.com/yourusername/sar-project.git
 cd sar-project
 pip install -r requirements.txt
+```
 
 ### Acknowledgement
 
