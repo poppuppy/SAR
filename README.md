@@ -1,7 +1,7 @@
 # Customize Your Visual Autoregressive Recipe with Set Autoregressive Modeling
 <div align="center">
 
-[![arXiv](https://img.shields.io/badge/arXiv%20paper-2410.10511-b31b1b)](https://arxiv.org/abs/)&nbsp;
+[![arXiv](https://img.shields.io/badge/arXiv%20paper-2410.10511-b31b1b)](https://arxiv.org/abs/2410.10511)&nbsp;
 [![project page](https://img.shields.io/badge/Project%20page-SAR-pink)](https://poppuppy.github.io/sar.github.io/)&nbsp;
 
 </div>
@@ -22,7 +22,7 @@ Currently we are working to organize the code.
 
 ## Update
 
-- [2024.10.15] [arXiv](https://arxiv.org/abs/) preprint is available.
+- [2024.10.15] [arXiv](https://arxiv.org/abs/2410.10511) preprint is available.
 
 ## Introduction
 
