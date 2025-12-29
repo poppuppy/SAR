@@ -57,4 +57,3 @@ The code is built upon [LlamaGen](https://github.com/FoundationVision/LlamaGen),
   year={2024}
 }
 ```
-You can contact me via email wzliu@link.cuhk.edu.hk if any questions.
